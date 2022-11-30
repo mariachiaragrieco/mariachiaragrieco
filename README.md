@@ -1,9 +1,9 @@
 ### Hi 👋
 
 - I'm @mariachiaragrieco
-- 🔭 I’m interested in genomics, transcriptomics and long-read sequencing
-- 📖 I’m a MSc student of Bionformatics for Computational Genomics at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it)
-- 🌱 I’m currently doing the thesis interniship in the [Cancer Genomics and Bioinformatics Lab](https://www.ceredalab.com/)
+- 🔭 I’m interested in cancer genomics and long-read sequencing
+- 📖 I’m a PhD Student in Computational Biology at [European School of Molecular Medicine (SEMM)](https://www.semm.it/) 
+- 🌱 I’m currently in the [Cancer Genomics and Bioinformatics Lab](https://www.ceredalab.com/)
 
 
 <!--
