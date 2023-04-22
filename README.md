@@ -2,7 +2,7 @@
 
 - I'm @mariachiaragrieco
 - 🔭 I’m interested in cancer genomics and long-read sequencing
-- 📖 I’m a PhD Student in Computational Biology at [European School of Molecular Medicine (SEMM)](https://www.semm.it/) 
+- 📖 I’m a PhD student in Computational Biology at [European School of Molecular Medicine (SEMM)](https://www.semm.it/) 
 - 🌱 I’m currently in the [Cancer Genomics and Bioinformatics Lab](https://www.ceredalab.com/)
 
 
